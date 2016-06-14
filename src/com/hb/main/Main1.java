@@ -23,7 +23,7 @@ public class Main1 {
 	private static ApplicationContext ctx = null;
 
 	public static void main(String[] args) throws IOException {
-
+		System.out.println("git 변경 관련 실험 로그");
 		ctx = new GenericXmlApplicationContext(
 				"classpath:/com/hb/main/appCtx1.xml");
 
