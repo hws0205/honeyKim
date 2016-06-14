@@ -24,6 +24,17 @@ public class Main1 {
 
 	public static void main(String[] args) throws IOException {
 		System.out.println("git 변경 관련 실험 로그");
+		System.out.println("아아아ㅏ런ㅇ마ㅣ러ㅣㅁㅈ더라ㅣ더라ㅣㄴ");
+		System.out.println("아아아ㅏ런ㅇ마ㅣ러ㅣㅁㅈ더라ㅣ더라ㅣㄴ");
+		System.out.println("아아아ㅏ런ㅇ마ㅣ러ㅣㅁㅈ더라ㅣ더라ㅣㄴ");
+		System.out.println("아아아ㅏ런ㅇ마ㅣ러ㅣㅁㅈ더라ㅣ더라ㅣㄴ");
+		System.out.println("아아아ㅏ런ㅇ마ㅣ러ㅣㅁㅈ더라ㅣ더라ㅣㄴ");
+		System.out.println("아아아ㅏ런ㅇ마ㅣ러ㅣㅁㅈ더라ㅣ더라ㅣㄴ");
+		System.out.println("아아아ㅏ런ㅇ마ㅣ러ㅣㅁㅈ더라ㅣ더라ㅣㄴ");
+		System.out.println("아아아ㅏ런ㅇ마ㅣ러ㅣㅁㅈ더라ㅣ더라ㅣㄴ");
+		System.out.println("아아아ㅏ런ㅇ마ㅣ러ㅣㅁㅈ더라ㅣ더라ㅣㄴ");
+		System.out.println("아아아ㅏ런ㅇ마ㅣ러ㅣㅁㅈ더라ㅣ더라ㅣㄴ");
+		
 		ctx = new GenericXmlApplicationContext(
 				"classpath:/com/hb/main/appCtx1.xml");
 
